@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class OppositeTriangle {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
         int num;
         Scanner triangle = new Scanner(System.in);
         System.out.print("Enter number: ");
