@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Hasan
  */
-public class OppositeTriangle {
+public class Pyramid {
 
     public static void main(String[] args) {
         int num;
