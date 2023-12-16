@@ -31,7 +31,7 @@ public class Maxmin {
             
             
         }
-        System.out.println("Max değer: " + max);
-        System.out.println("Min değer:" + min);
+        System.out.println("Max: " + max);
+        System.out.println("Min: " + min);
     }
 }
